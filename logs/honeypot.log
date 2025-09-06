@@ -1,0 +1,4 @@
+2025-09-04 09:17:42,520 - INFO - fake http server listening on 127.0.0.1:8080
+2025-09-04 09:17:50,600 - INFO - connection attempt from ('127.0.0.1', 52936)
+2025-09-04 09:17:50,606 - INFO - connection attempt from ('127.0.0.1', 52950)
+2025-09-04 09:17:51,106 - INFO - connection attempt from ('127.0.0.1', 52958)

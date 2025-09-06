@@ -1,0 +1,28 @@
+node_id: node-001
+bind_host: "0.0.0.0"
+
+
+
+services: 
+    http: 
+      enabled: true
+      port: 8080
+    
+    telnet: 
+      enabled: false
+      port: 2323
+
+    ssh:
+      enabled: true
+      port: 2222
+
+    ftp:
+      enabled: true
+      port: 2121
+
+    mysql:
+    enabled: true
+    port: 3306
+  
+logging:
+  dir: "logs"

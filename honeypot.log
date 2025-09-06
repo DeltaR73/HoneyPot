@@ -1,0 +1,28 @@
+2025-09-04 09:48:29,508 - INFO - fake http server listening on 0.0.0.0:8080
+2025-09-04 09:48:34,723 - INFO - connection attempt from ('127.0.0.1', 42834)
+2025-09-04 09:48:34,724 - INFO - connection attempt from ('127.0.0.1', 42836)
+2025-09-04 09:48:34,979 - INFO - connection attempt from ('127.0.0.1', 42852)
+2025-09-04 09:48:35,487 - INFO - connection attempt from ('127.0.0.1', 34060)
+2025-09-04 09:48:35,738 - INFO - connection attempt from ('127.0.0.1', 34066)
+2025-09-06 15:24:39,665 - INFO - fake http server listening on 0.0.0.0:8080
+2025-09-06 15:24:43,629 - INFO - connection attempt from ('127.0.0.1', 33330)
+2025-09-06 15:24:43,630 - INFO - connection attempt from ('127.0.0.1', 33342)
+2025-09-06 15:24:43,878 - INFO - connection attempt from ('127.0.0.1', 33358)
+2025-09-06 15:24:44,549 - INFO - connection attempt from ('127.0.0.1', 33366)
+2025-09-06 15:24:44,801 - INFO - connection attempt from ('127.0.0.1', 33376)
+2025-09-06 15:28:15,460 - INFO - fake http server listening on 0.0.0.0:8080
+2025-09-06 15:28:15,461 - INFO - [FTP] Listening on host 0.0.0.0:2121
+2025-09-06 15:28:22,562 - INFO - [FTP] Connection from ('127.0.0.1', 48680)
+2025-09-06 15:28:26,345 - INFO - [FTP] Connection from ('127.0.0.1', 53734)
+2025-09-06 15:28:26,347 - INFO - [FTP] Connection from ('127.0.0.1', 53746)
+2025-09-06 15:28:26,349 - INFO - connection attempt from ('127.0.0.1', 39066)
+2025-09-06 15:28:26,601 - INFO - [FTP] Connection from ('127.0.0.1', 53750)
+2025-09-06 15:28:27,825 - INFO - [FTP] Connection from ('127.0.0.1', 53756)
+2025-09-06 15:28:28,080 - INFO - [FTP] Connection from ('127.0.0.1', 53766)
+2025-09-06 15:28:29,181 - INFO - [FTP] Connection from ('127.0.0.1', 53778)
+2025-09-06 15:28:34,504 - INFO - [FTP] Connection from ('127.0.0.1', 53790)
+2025-09-06 15:28:34,505 - INFO - [FTP] Connection from ('127.0.0.1', 53792)
+2025-09-06 15:28:34,756 - INFO - [FTP] Connection from ('127.0.0.1', 53800)
+2025-09-06 15:29:08,089 - INFO - connection attempt from ('127.0.0.1', 56730)
+2025-09-06 15:29:08,761 - INFO - connection attempt from ('127.0.0.1', 56736)
+2025-09-06 15:29:09,017 - INFO - connection attempt from ('127.0.0.1', 56744)

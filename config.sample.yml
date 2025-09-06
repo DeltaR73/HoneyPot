@@ -1,0 +1,18 @@
+node_id: node-1
+bind_host: "127.0.0.1"
+logging:
+  dir: "logs"
+
+
+services: 
+    http: 
+      enabled: true
+      port: 8080
+    
+    telnet: 
+      enabled: false
+      port: 2323
+
+    ssh:
+      enabled: false
+      port: 2222
